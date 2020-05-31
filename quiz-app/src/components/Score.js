@@ -8,7 +8,7 @@ function Score(){
     const {score, maxPossibleScore, scoreMessage} = useScore()
 
     return(
-        //  allQuestionsAnswered && 
+          allQuestionsAnswered && 
             <div className="score-container">
                 { !allAnswersSubmitted &&
                     <button 
