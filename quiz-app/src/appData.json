@@ -129,7 +129,7 @@
 		"answer": {
 			"type": "image",
 			"url": "https://drive.google.com/uc?id=1tBtWW9odzws3ExB8-lF5XkP8IG5ZBUxZ&export=download",
-			"message": "Rome at 41.9028° N (NYC: 40.7128°, Toyko: 35.6762°",
+			"message": "Rome at 41.9028° N (NYC: 40.7128°, Toyko: 35.6762°)",
 			"answerPattern": "array", 
 			"possibleAnswers": ["rome", "roma", "italy"]
 		},
