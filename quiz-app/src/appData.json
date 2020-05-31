@@ -1,0 +1,212 @@
+{
+	"headerEmoji": "🌍",
+	"score": {
+		"badScoreMax": 0.4,
+		"okScoreMax": 0.6,
+		"goodScoreMax": 0.8,
+		"badMessage": "Rubbish! 😨💩",
+		"okMessage": "Not bad... 🤔",
+		"goodMessage": "Pretty good! 🤓",
+		"greatMessage": "Amazing! 🤯"
+	},
+	"resultsModal":{
+		"badResult":{
+			"message": "RUBBISH",
+			"url": "https://media1.tenor.com/images/4fbb934ed32f91a23a9283f1895ccf0f/tenor.gif?itemid=11124598"
+		},
+		"okResult":{
+			"message": "Try harder",
+			"url": "https://media.tenor.com/images/cdea832edefbecb1f9fae56391229e85/tenor.gif"
+		},
+		"goodResult":{
+			"message": "Hey that's pretty good!",
+			"url": "https://media.tenor.com/images/27426af55d0e09ae5f3d2f36bae52690/tenor.gif"
+		},
+		"greatResult":{
+			"message": "AMAZING! 🤯",
+			"url": "https://media.tenor.com/images/8df70e8173bb65ee7b33151be861106c/tenor.gif"
+		}
+	},
+	"photos" :[
+	{
+		"id": "1",
+		"thumbnail": "https://drive.google.com/uc?id=1PMGtMFHbXJBqij5oTOtcczVXQARdAEFR&export=download",
+		"question": {
+			"type": "image",
+			"url": "https://drive.google.com/uc?id=1PMGtMFHbXJBqij5oTOtcczVXQARdAEFR&export=download",
+			"message": "What country's outline is shown here?"
+		},
+		"answer": {
+			"type": "image",
+			"url": "https://drive.google.com/uc?id=1UkJQHQXtgtDNvBo_IAACvW-8l4SC86Ub&export=download",
+			"message": "India",
+			"answerPattern": "array",
+			"possibleAnswers": ["india", "indian", "indias"]
+		},
+		"guess": "",
+		"isCorrect": false
+	},
+	{
+		"id": "2",
+		"thumbnail": "https://drive.google.com/uc?id=1NVfAIISGk0FF1dCuU7jgpD-dcxLUPRcr&export=download",
+		"question": {
+			"type": "image",
+			"url": "https://drive.google.com/uc?id=1NVfAIISGk0FF1dCuU7jgpD-dcxLUPRcr&export=download",
+			"message": "Name the only country on Earth with no red, white or blue in their flag."
+		},
+		"answer": {
+			"type": "image",
+			"url": "https://drive.google.com/uc?id=1ymyb4e7WT9MODJuY2eC7qCCxo955WvNI&export=download",
+			"message": "Jamaica",
+			"answerPattern": "regex",
+			"possibleAnswers": "^(ja|je)(maica|mayca|maca)$"
+		},
+		"guess": "",
+		"isCorrect": false
+	},
+	{
+		"id": "3",
+		"thumbnail": "https://drive.google.com/uc?id=10WPf1c7xVfypr65ptFrtr_PMh3iuLxNS&export=download",
+		"question": {
+			"type": "image",
+			"url": "https://drive.google.com/uc?id=10WPf1c7xVfypr65ptFrtr_PMh3iuLxNS&export=download",
+			"message": "How many timezones does Russia have?"
+		},
+		"answer": {
+			"type": "image",
+			"url": "https://drive.google.com/uc?id=1sRP42NciHTqyLVmXFy2DVb8PSONtxk0x&export=download",
+			"message": "A whopping eleven! 🤯",
+			"answerPattern": "array",
+			"possibleAnswers": ["11", "eleven"]
+		},
+		"guess": "",
+		"isCorrect": false
+	},
+	{
+		"id": "4",
+		"thumbnail": "https://drive.google.com/uc?id=1PkPg6tUbnwQO-d59SmlugyOwhcrEz_yb&export=download",
+		"question": {
+			"type": "audio",
+			"url": "https://drive.google.com/uc?id=1IkyYwoEVKQXvBbWXpW9j4UcU-g-myDt1&export=download",
+			"message": "WHich European country's national anthem is this?"
+		},
+		"answer": {
+			"type": "image",
+			"url": "https://drive.google.com/uc?id=1Hex-ilmWxuGHA7OTCExtJW0L8GRlEWQQ&export=download",
+			"message": "France - it's named 'La Marseillaise'",
+			"answerPattern": "array", 
+			"possibleAnswers": ["france", "french", "francais", "franais"]
+		},
+		"guess": "",
+		"isCorrect": false
+	},
+	{
+		"id": "5",
+		"thumbnail": "https://drive.google.com/uc?id=1rEzuy3wBdjd7lnCvi4bz5ozRY4mGLf-H&export=download",
+		"question": {
+			"type": "image",
+			"url": "https://drive.google.com/uc?id=1rEzuy3wBdjd7lnCvi4bz5ozRY4mGLf-H&export=download",
+			"message": "Which country has an outline the shape of a kangaroo?"
+		},
+		"answer": {
+			"type": "image",
+			"url": "https://drive.google.com/uc?id=1FS7xjEDl2H_O-LLqKFVxg5-J2cmJnHT9&export=download",
+			"message": "United Arab Emirates",
+			"answerPattern": "regex",
+			"possibleAnswers": "^(the|)(uae|unitedarabemirates|emirates|arabemirates|dubai)(s|)"
+		},
+		"guess": "",
+		"isCorrect": false
+	},
+	{
+		"id": "6",
+		"thumbnail": "https://drive.google.com/uc?id=1ZOxPZp62JQSWdZ-LCoifHSQkgmsd_djc&export=download",
+		"question": {
+			"type": "image",
+			"url": "https://drive.google.com/uc?id=1ZOxPZp62JQSWdZ-LCoifHSQkgmsd_djc&export=download",
+			"message": "Which city is furthest north? Rome, New York or Toyko?"
+		},
+		"answer": {
+			"type": "image",
+			"url": "https://drive.google.com/uc?id=1tBtWW9odzws3ExB8-lF5XkP8IG5ZBUxZ&export=download",
+			"message": "Rome at 41.9028° N (NYC: 40.7128°, Toyko: 35.6762°",
+			"answerPattern": "array", 
+			"possibleAnswers": ["rome", "roma", "italy"]
+		},
+		"guess": "",
+		"isCorrect": false
+	},
+	{
+		"id": "7",
+		"thumbnail": "https://drive.google.com/uc?id=1OA5ZzSDpG_KiV0nrkpG3mivMqH0Xeyci&export=download",
+		"question": {
+			"type": "image",
+			"url": "https://drive.google.com/uc?id=1OA5ZzSDpG_KiV0nrkpG3mivMqH0Xeyci&export=download",
+			"message": "Which country has the worlds longest total combined coastline? Russia, Indonesia, Australia, Canada or Chile"
+		},
+		"answer": {
+			"type": "image",
+			"url": "https://drive.google.com/uc?id=1mBDjwRSgGm36ISMeZx0q35Tg01LyEm9J&export=download",
+			"message": "Canada at over 200,000km",
+			"answerPattern": "array",
+			"possibleAnswers": ["canada", "can"]
+		},
+		"guess": "",
+		"isCorrect": false
+	},
+	{
+		"id": "8",
+		"thumbnail": "https://drive.google.com/uc?id=11adYn6I1Vx7qXfWzZPXmioSnI7pyWI5Q&export=download",
+		"question": {
+			"type": "audio",
+			"url": "https://drive.google.com/uc?id=1bVvxdwgekUP8QvDAUvjaNiFiPQcCg73o&export=download",
+			"message": "From which country does this instrument originate?"
+		},
+		"answer": {
+			"type": "image",
+			"url": "https://drive.google.com/uc?id=15h-TQzrtUAEQoDhNH98nA8Wt9gQBocnY&export=download",
+			"message": "It's a didgeridoo from Australia",
+			"answerPattern": "array", 
+			"possibleAnswers": ["australia", "aus", "oz", "aussie", "aussieland", "didgeridoo"]
+		},
+		"guess": "",
+		"isCorrect": false
+	},
+	{
+		"id": "9",
+		"thumbnail": "https://drive.google.com/uc?id=183Q5i_yYR3yttmqfQXEKAtGesIVxGPp6&export=download",
+		"question": {
+			"type": "image",
+			"url": "https://drive.google.com/uc?id=183Q5i_yYR3yttmqfQXEKAtGesIVxGPp6&export=download",
+			"message": "Which country's outline is shown here?"
+		},
+		"answer": {
+			"type": "image",
+			"url": "https://drive.google.com/uc?id=1AC9f7p5e8kpjdt2VBMTuCkHp6lWxXkxm&export=download",
+			"message": "Mexico",
+			"answerPattern": "array", 
+			"possibleAnswers": ["mexico", "mexican", "mexicos"]
+		},
+		"guess": "",
+		"isCorrect": false
+	},
+	{
+		"id": "10",
+		"thumbnail": "https://drive.google.com/uc?id=1Y-NAW4UPx0f7Qcb8Cj8KzO4FJgI7QB5U&export=download",
+		"question": {
+			"type": "image",
+			"url": "https://drive.google.com/uc?id=1Y-NAW4UPx0f7Qcb8Cj8KzO4FJgI7QB5U&export=download",
+			"message": "Which are there more of? US states or English counties?"
+		},
+		"answer": {
+			"type": "image",
+			"url": "https://drive.google.com/uc?id=1cGUGB_vb0H-fiTE1WJEg-yBpUqBxQlTS&export=download",
+			"message": "US states - there are 50 vs. 48 English counties",
+			"answerPattern": "regex", 
+			"possibleAnswers": "^(america|us|usa|american|united|)(states|)(ofamerica|)(america|)$"
+		},
+		"guess": "",
+		"isCorrect": false
+	}
+]
+}
